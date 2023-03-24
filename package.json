@@ -1,0 +1,24 @@
+{
+  "name": "twitch-vod-sorted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/evokelektrique/twitch-vod-sorted.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evokelektrique/twitch-vod-sorted/issues"
+  },
+  "homepage": "https://github.com/evokelektrique/twitch-vod-sorted#readme",
+  "dependencies": {
+    "fast-json-parse": "^1.0.3",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
